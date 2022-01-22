@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+	<title>snake</title>
+	<defs>
+		<image  width="40" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoBAMAAAB+0KVeAAAAAXNSR0IB2cksfwAAAC1QTFRF/////////////v7+/v7+/f7+AAAA/Pz8/f39/Pz7/v79/f38/v7+/v39+/v72Kl+iAAAAA90Uk5T//79/Pr6//n6+Pr4+/r2O6rTiwAAAElJREFUeJxjYMAOhIwEhJ0VBUFAAMgNAYmlYYChIihAgnbGAXQnLbxJC8GB9jtN4oixQkC4s1lg9e7duxefOXNG+d4DHHkDGwAAdn0Gdu051O0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>
